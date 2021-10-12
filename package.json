@@ -1,6 +1,6 @@
 {
   "name": "use-thread",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Runs a function in a separate thread by using a Web Worker not blocking UI",
   "main": "dist/es5/index.js",
   "repository": "git@github.com:zzarcon/use-thread.git",
